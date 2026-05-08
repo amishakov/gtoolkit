@@ -26,10 +26,12 @@ Build these tools yourself or with AI in one integrated environment.
 
 ## Download
 
+### Ready made distribution
+
 Simply download and run: https://gtoolkit.com/download.
 The download is a self contained installation made of a Glamorous Toolkit image, a virtual machine, and a few other resources and libraries.
 
-## Install from sources
+### Install from sources
 
 Executing the script below installs the VM, clones the sources and builds an image. It takes ~10 minutes and it is useful for developing Glamorous Toolkit itself.
 
